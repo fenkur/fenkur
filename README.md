@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fenky</h1>
 <h3 align="center">Information Technology Infrastructure @ UMN-Twin Cities</h3>
 
-- 👨‍💻 All of my projects are available at [www.fenky.dev](www.fenky.dev)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/fenky.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fenky.dev" height="30" width="40" /></a>
